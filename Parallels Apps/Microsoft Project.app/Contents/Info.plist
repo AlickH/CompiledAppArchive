@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+<string>de</string>
+<string>ja</string>
+<string>en</string>
+<string>zh_CN</string>
+<string>es</string>
+<string>pt_BR</string>
+<string>it</string>
+<string>cs</string>
+<string>ko</string>
+<string>pl</string>
+<string>zh_TW</string>
+<string>ru</string>
+<string>fr</string>
+</array>
+	<key>CFBundleExecutable</key>
+	<string>WinAppHelper</string>
+	<key>CFBundleName</key>
+	<string>Project</string>
+	<key>CFBundleGetInfoString</key>
+	<string>16.5, C:\Program Files (x86)\Microsoft Office\root\Office16\WINPROJ.EXE</string>
+	<key>CFBundleIconFile</key>
+	<string>WinAppHelper.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.parallels.winapp.9e727fdd3aec8274f46685441900280d.6e70cb5d523843549057e36ceee16ca2</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>Windows ARM</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>17.51516.0</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
+	<key>LSUIElement</key>
+	<string>1</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.7.0</string>
+	<key>NSPrincipalClass</key>
+	<string>CStubApplication</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>****</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleTypeMIMETypes</key>
+			<array>
+				<string>*/*</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mpd</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>my_documents.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>MPD file</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mpp</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>my_documents.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>MPP file</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mpt</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>my_documents.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>MPT file</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mpw</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>my_documents.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>MPW file</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mpx</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>my_documents.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>MPX file</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+		</dict>
+	</array>
+</dict>
+</plist>

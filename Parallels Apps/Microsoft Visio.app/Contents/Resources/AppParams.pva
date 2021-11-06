@@ -1,0 +1,8 @@
+[System]
+Helper Version = 16.5
+VM Id = {6e70cb5d-5238-4354-9057-e36ceee16ca2}
+VM Name = Windows ARM
+VM OS Type = 8.2067
+APP Path = C:\Program Files (x86)\Microsoft Office\root\Office16\VISIO.EXE
+Protocols = 
+File Extensions = vdw,vdx,vsd,vsdm,vsdx,vss,vssm,vssx,vst,vstm,vstx,vsw,vsx,vtpx,vtx
